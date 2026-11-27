@@ -262,7 +262,7 @@ document.addEventListener("DOMContentLoaded",()=>{ buildTabs(); render(); });
 </script>
 </body>
 </html>
-<!-- ▼▼ PASTE WORD BLOCKS (PART 1, 2, 3) BELOW THIS LINE ▼▼ -->
+
 <script>
 window.WORDS = (window.WORDS || []).concat(`Pygmalion Effect: When high expectations from others actually lead you to perform better.
 Amor Fati: Loving your fate—fully accepting everything that happens in life, good or bad, as necessary.
